@@ -1,6 +1,4 @@
 
-https://github.com/user-attachments/assets/d9a56a5b-cf77-412a-b76e-f1bd63f97d40
-![Screenshot_20240820_094958](https://github.com/user-attachments/assets/c2973edd-e595-4a97-9a99-7a71c1c32ebf)# gemini_app
 
 A new Flutter project.
 
